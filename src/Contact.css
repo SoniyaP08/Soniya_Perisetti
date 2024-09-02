@@ -1,0 +1,135 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+#contact-me
+{
+    padding-top: 80px;
+}
+.contact-container 
+{
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    justify-content:center;
+    align-items: center;
+    flex-wrap:wrap;
+    margin-top:30px;
+    text-align: center;
+}
+.contact-box form
+{
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    justify-content:space-between;
+    align-items: center;
+    flex-wrap:wrap;
+    padding: 12px;
+    border: 1px solid grey;
+    border-radius: 25px;
+}
+.input, .textarea
+{
+    width: 400px;
+    padding: 7px;
+    border-style: ridge;
+    border-radius: 30px;
+    border-color: grey;
+}
+.textarea
+{
+    border-width: 2px;
+}
+footer
+{
+    margin-top: 50px;
+}
+footer h2{
+    margin: 20px;
+}
+.footer {
+    padding: 15px;
+    background-color: #000000; /* Use a color that matches your theme */
+    color: #ffffff;
+    width: 100%;
+}
+
+.footer p {
+    margin: 0;
+}
+
+
+.items ul{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    overflow: hidden;
+    font-weight: 500;
+    font-size: large;
+    margin-bottom: 20px;
+}
+.items ul li{
+    list-style: none;
+    margin: 20px;
+    cursor: pointer;
+}
+.items a{
+    margin: 15px;
+}
+#btn3
+{
+    border-radius: 25px;
+    padding: 10px;
+    border: 1px solid black;
+    font-weight: 500;
+    background-color: rgb(53, 52, 52); 
+    color: white; 
+    transition: background-color 0.3s ease, color 0.3s ease; 
+}
+#btn3:hover {
+    background-color: #f8f9fa; 
+        color: black; 
+}
+@media screen and (max-width: 450px) {
+    .input, .textarea {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 677px) {
+    .items ul {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding-right: 25px;
+    }
+    .items ul li
+    {
+        margin: 5px;
+       
+    }
+}
+@media screen and (max-width : 335px)
+{
+    #contact-me
+{
+    padding-top: 20px;
+}
+.input, .textarea
+{
+    width: 250px;
+    padding: 5px;
+}
+#btn3
+    {     
+       padding: 5px;
+       font-weight: 400;
+    }
+}
+

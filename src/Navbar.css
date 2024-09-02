@@ -1,0 +1,35 @@
+/* Add space between navbar links */
+.navbar-nav .nav-item {
+    margin-right: 40px; /* Adjust this value as needed */
+    font-weight: 500;
+    font-size: large;
+  }
+  
+  /* Remove the margin from the last nav-item */
+  .navbar-nav .nav-item:last-child {
+    margin-right: 0;
+  }
+  
+  /* Change cursor style on hover */
+  .navbar-nav .nav-link {
+    cursor: pointer; /* Changes cursor to a pointer (hand icon) */
+    transition: color 0.3s ease; 
+    color: white;/* Optional: smooth color transition on hover */
+  }
+  
+  .navbar-nav .nav-link:hover {
+   background-color: white;
+   color: black;
+   border-radius: 20px;
+    /* Optional: change text color on hover */
+  }
+  @media screen and (max-width: 991px) {
+    .navbar-nav .nav-link:hover {
+        background-color: white;
+        color: black;
+        border-radius: 20px;
+        width: 70px;
+        text-align: center;
+    }
+}
+  
