@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Soniya_Perisetti/static/css/main.45c0d0d3.css",
-    "main.js": "/Soniya_Perisetti/static/js/main.25df5c11.js",
+    "main.css": "/Soniya_Perisetti/static/css/main.ee251720.css",
+    "main.js": "/Soniya_Perisetti/static/js/main.6fcbec3e.js",
     "static/media/profile1.jpg": "/Soniya_Perisetti/static/media/profile1.29515812e5d6d711d8ef.jpg",
     "static/media/project5.jpg": "/Soniya_Perisetti/static/media/project5.3c7035dd3024d138724d.jpg",
     "static/media/project4.jpg": "/Soniya_Perisetti/static/media/project4.68fa20718d668919a417.jpg",
     "static/media/project2.png": "/Soniya_Perisetti/static/media/project2.3cc5bcf62ea442d0550b.png",
     "static/media/project3.webp": "/Soniya_Perisetti/static/media/project3.0dc8ebe7179f33c7c8f7.webp",
     "index.html": "/Soniya_Perisetti/index.html",
-    "main.45c0d0d3.css.map": "/Soniya_Perisetti/static/css/main.45c0d0d3.css.map",
-    "main.25df5c11.js.map": "/Soniya_Perisetti/static/js/main.25df5c11.js.map"
+    "main.ee251720.css.map": "/Soniya_Perisetti/static/css/main.ee251720.css.map",
+    "main.6fcbec3e.js.map": "/Soniya_Perisetti/static/js/main.6fcbec3e.js.map"
   },
   "entrypoints": [
-    "static/css/main.45c0d0d3.css",
-    "static/js/main.25df5c11.js"
+    "static/css/main.ee251720.css",
+    "static/js/main.6fcbec3e.js"
   ]
 }
