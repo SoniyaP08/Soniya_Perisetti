@@ -58,7 +58,7 @@ h1{
 .each-skill p{
     margin-left: 33px;
 }
-@media screen and (max-width : 335px)
+@media screen and (max-width : 450px)
 {
     #my-skills
     {
