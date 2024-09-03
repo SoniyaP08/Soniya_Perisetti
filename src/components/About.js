@@ -14,17 +14,17 @@ export default function About() {
       <div className="boxes">
         <div className="box">
         <i class="fa-solid fa-graduation-cap fa-xl" style={{color: "#000000", margin: "20px"}}></i>
-            <h4>Education</h4>
+            <h4><b>Education</b></h4>
             <p>Pursuing B.Tech at RGUKT Nuzvid</p>
         </div>
         <div className="box">
         <i class="fa-solid fa-code fa-xl" style={{color: "#000000", margin: "20px"}}></i>
-            <h4>Coding</h4>
-            <p>4 years of experience in coding</p>
+            <h4><b>Coding</b></h4>
+            <p>Actively engaged in solving coding problems</p>
         </div>
         <div className="box">
         <i class="fa-solid fa-briefcase fa-xl" style={{color: "#000000", margin: "20px"}}></i>
-            <h4>Experience</h4>
+            <h4><b>Experience</b></h4>
             <p >Java Full Stack internship at Edubot Technologies</p>
         </div>
         </div>
