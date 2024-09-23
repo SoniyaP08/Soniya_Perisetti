@@ -23,7 +23,7 @@ export default function Home() {
                 Hire Me
               </button>
             </Link>
-            <a href="https://drive.google.com/file/d/1Tp2I_GMDIqYsnJ7mmblaNZrxv07Nsl-t/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+            <a href="https://drive.google.com/file/d/1E7SaUiPVH0WSL925qrjP5HQU2vfmAz_f/view?usp=sharing" target="_blank" rel="noopener noreferrer">
               <button className="btn btn-success ms-4" id="btn1">
                 <i className="fa-solid fa-file" style={{ marginRight: "8px"}}></i>
                 My Resume
