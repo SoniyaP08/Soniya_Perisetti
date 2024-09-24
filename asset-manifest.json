@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Soniya_Perisetti/static/css/main.ee251720.css",
-    "main.js": "/Soniya_Perisetti/static/js/main.75a85cdc.js",
+    "main.js": "/Soniya_Perisetti/static/js/main.46a02df4.js",
     "static/media/profile1.jpg": "/Soniya_Perisetti/static/media/profile1.29515812e5d6d711d8ef.jpg",
     "static/media/project5.jpg": "/Soniya_Perisetti/static/media/project5.3c7035dd3024d138724d.jpg",
     "static/media/project4.jpg": "/Soniya_Perisetti/static/media/project4.68fa20718d668919a417.jpg",
@@ -9,10 +9,10 @@
     "static/media/project3.webp": "/Soniya_Perisetti/static/media/project3.0dc8ebe7179f33c7c8f7.webp",
     "index.html": "/Soniya_Perisetti/index.html",
     "main.ee251720.css.map": "/Soniya_Perisetti/static/css/main.ee251720.css.map",
-    "main.75a85cdc.js.map": "/Soniya_Perisetti/static/js/main.75a85cdc.js.map"
+    "main.46a02df4.js.map": "/Soniya_Perisetti/static/js/main.46a02df4.js.map"
   },
   "entrypoints": [
     "static/css/main.ee251720.css",
-    "static/js/main.75a85cdc.js"
+    "static/js/main.46a02df4.js"
   ]
 }
